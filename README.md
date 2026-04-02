@@ -101,4 +101,4 @@ Furthermore, biological factors (fuel density) and human factors (intervention r
 *   Integrate model tracking frameworks (like `MLflow`).
 
 ## License
-MIT License. See `LICENSE` for more information.
+See the [LICENSE](LICENSE) file for details.
