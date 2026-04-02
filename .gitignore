@@ -1,0 +1,18 @@
+# Ignore python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+
+# Ignore everything in models except final artifacts
+models/*
+!models/regression_model.pkl
+!models/classifier_model.pkl
